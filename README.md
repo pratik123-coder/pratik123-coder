@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Mohanty</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
+<a href="https://wakatime.com/@a5cca67b-5b1f-4f7b-bf7a-19a8ed4600db"><img src="https://wakatime.com/badge/user/a5cca67b-5b1f-4f7b-bf7a-19a8ed4600db.svg" alt="Total time coded since Aug 14 2023" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik123-coder&label=Profile%20views&color=0e75b6&style=flat" alt="pratik123-coder" /> </p>
 
