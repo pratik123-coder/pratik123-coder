@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik123-coder&label=Profile%20views&color=0e75b6&style=flat" alt="pratik123-coder" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Netflix Clone**
+- 🔭 I’m currently working on **Secure Chat App**
 
 - 🌱 I’m currently learning **NextJS, ExpressJS, Prisma and Postgres**
 
