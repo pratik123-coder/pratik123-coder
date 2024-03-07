@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS, ExpressJS, Prisma and Postgres**
 
-- 👨‍💻 All of my projects are available at [my-personal-website-theta-dun.vercel.app](pratikmohanty.vercel.app)
+- 👨‍💻 All of my projects are available at [pratikmohanty.vercel.app](pratikmohanty.vercel.app)
 
 - 💬 Ask me about **php, react and GSAP**
 
