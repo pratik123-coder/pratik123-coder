@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <a href="https://wakatime.com/@a5cca67b-5b1f-4f7b-bf7a-19a8ed4600db"><img src="https://wakatime.com/badge/user/a5cca67b-5b1f-4f7b-bf7a-19a8ed4600db.svg" alt="Total time coded since Aug 14 2023" /></a>
 
+<img src="https://private-user-images.githubusercontent.com/94133298/322251482-1497bc1c-51a0-4e39-99f6-8f8b78bab94f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA3NzAsIm5iZiI6MTcxNTk1MDQ3MCwicGF0aCI6Ii85NDEzMzI5OC8zMjIyNTE0ODItMTQ5N2JjMWMtNTFhMC00ZTM5LTk5ZjYtOGY4Yjc4YmFiOTRmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE3VDEyNTQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmNGQxOWMxZmQ0YzQ5NDk5MzFjMzE0N2RjOTIyZTAwYTVjZDkwZjBlM2EwZTA5YTBlNmZkZDlhMDA1YzM4NzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.irBl1J34bBepLhzkJNH56E8k64bmlBVybeJVNIrgNU0" alt="Photo" />
+
 # 💫 About Me:
 🔭 I’m currently working on Faster API calls and Caching<br>👯 I’m looking to collaborate on Full stack Projects <br>🌱 I’m currently learning Docker & Kubernetes <br>💬 Ask me about NextJs, Backend Dev and Authentication
 
